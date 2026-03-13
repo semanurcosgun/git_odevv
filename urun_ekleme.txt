@@ -1,1 +1,2 @@
 urunekleme
+input kontrolu eklendi
