@@ -1,2 +1,3 @@
 urunekleme
 input kontrolu eklendi
+hata kontrolu eklendi
