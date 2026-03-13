@@ -1,0 +1,3 @@
+urun silme özelliği
+silme kontrolü eklendi
+hata kontrolü eklendi
