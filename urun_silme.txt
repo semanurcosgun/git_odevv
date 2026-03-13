@@ -1,1 +1,2 @@
 urun silme özelliği
+silme kontrolü eklendi
